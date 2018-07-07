@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="design.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5167"
+       inkscape:collect="always">
+      <stop
+         id="stop5163"
+         offset="0"
+         style="stop-color:#00aad4;stop-opacity:1" />
+      <stop
+         id="stop5165"
+         offset="1"
+         style="stop-color:#6f7c91;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5127">
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="0"
+         id="stop5123" />
+      <stop
+         style="stop-color:#6f7c91;stop-opacity:0;"
+         offset="1"
+         id="stop5125" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9688"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop9686" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5167"
+       id="linearGradient7531"
+       x1="101.6"
+       y1="80.568863"
+       x2="101.9011"
+       y2="240.08377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.50706845,-2.1166606,-421.84024)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5127"
+       id="linearGradient5215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.4579444,202.67084,199.72955)"
+       x1="101.15276"
+       y1="222.593"
+       x2="100.58707"
+       y2="139.16681" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.14035"
+     inkscape:cx="303.38136"
+     inkscape:cy="1115.4365"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485" />
+    <sodipodi:guide
+       position="206.375,-23.283334"
+       orientation="1,0"
+       id="guide4892"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7502"
+       transform="translate(119.0625,-70.114583)"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/art/images/balun.png"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-ydpi="101.72961">
+      <path
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4491"
+         d="m 50.270833,49.614583 c -1.48989,2.461109 -1.667245,3.497972 -1.322917,3.96875 0.571688,2.239154 -0.34868,3.778052 -1.322917,5.291667 l -2.645832,2.645832 -1.322917,1.322917"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         ry="9.9013414"
+         rx="5.885344"
+         cy="39.598213"
+         cx="50.79055"
+         id="path4489"
+         style="opacity:1;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         ry="2.6458333"
+         rx="1.3229166"
+         cy="37.013756"
+         cx="51.140846"
+         id="path4549"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.96499991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         ry="0.79374999"
+         rx="0.39687499"
+         cy="37.098801"
+         cx="51.882626"
+         id="path4553"
+         style="opacity:1;fill:#000000;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.96499991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.53590274;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4557"
+         cx="54.673607"
+         cy="37.013756"
+         rx="0.92369115"
+         ry="2.315104" />
+      <ellipse
+         inkscape:export-ydpi="101.72961"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         style="opacity:1;fill:#000000;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.54513359;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4559"
+         cx="55.255848"
+         cy="37.098801"
+         rx="0.28044826"
+         ry="0.69453126" />
+    </g>
+    <rect
+       inkscape:export-ydpi="99"
+       inkscape:export-xdpi="99"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       y="402.83334"
+       x="234.95"
+       height="165.10002"
+       width="134.9375"
+       id="rect5213"
+       style="opacity:1;fill:url(#linearGradient5215);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95871806;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4738"
+       width="16.933332"
+       height="16.933332"
+       x="142.15237"
+       y="-68.247025" />
+    <g
+       id="g4776"
+       transform="translate(-0.83828445,3.2740511)">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4740"
+         width="16.933332"
+         height="16.933332"
+         x="106.3249"
+         y="-32.606632" />
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+         transform="translate(-19.750284,-1.2959948)"
+         id="g4758">
+        <circle
+           style="opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.57315445;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path6363"
+           cx="133.37254"
+           cy="-25.089035"
+           r="2.239572"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39581811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path6365"
+           cx="134.20023"
+           cy="-25.784966"
+           rx="0.46318328"
+           ry="0.45893297"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <circle
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           r="1.4517156"
+           cy="-21.908527"
+           cx="136.59982"
+           id="circle4744"
+           style="opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.37152511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+        <ellipse
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           ry="0.29748547"
+           rx="0.30024058"
+           cy="-22.359638"
+           cx="137.13634"
+           id="ellipse4746"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25657371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+        <circle
+           style="opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.21234404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle4748"
+           cx="134.2612"
+           cy="-19.008654"
+           r="0.8297236"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.14664392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="ellipse4750"
+           cx="134.56784"
+           cy="-19.266483"
+           rx="0.17160158"
+           ry="0.17002691"
+           inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/air.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       id="g4764"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/spike.png"
+       inkscape:export-xdpi="96.000046"
+       inkscape:export-ydpi="96.000046"
+       transform="translate(1.10732,1.7773429)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4760"
+         width="16.933332"
+         height="16.933332"
+         x="81.459122"
+         y="-31.203468" />
+      <path
+         inkscape:export-ydpi="75.839996"
+         inkscape:export-xdpi="75.839996"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/spike.png"
+         transform="matrix(0.76108284,0,0,0.69506971,60.65487,-78.863254)"
+         inkscape:transform-center-y="-1.0942284"
+         d="m 38.459564,76.072917 9.165435,15.875 -18.33087,-10e-7 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="5.2916665"
+         sodipodi:r1="10.583333"
+         sodipodi:cy="86.65625"
+         sodipodi:cx="38.459564"
+         sodipodi:sides="3"
+         id="path4545"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.96500003;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </g>
+    <rect
+       y="-28.584227"
+       x="56.746395"
+       height="16.933332"
+       width="16.933332"
+       id="rect4766"
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/block.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023" />
+    <rect
+       style="opacity:1;fill:#44aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26171851;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4778"
+       width="16.933332"
+       height="5.2870626"
+       x="56.746395"
+       y="-28.584227"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/block.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023" />
+    <g
+       transform="matrix(-1,0,0,1,245.70464,-70.114583)"
+       id="g4772"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/art/images/balunflip.png"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-ydpi="101.72961">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 50.270833,49.614583 c -1.48989,2.461109 -1.667245,3.497972 -1.322917,3.96875 0.571688,2.239154 -0.34868,3.778052 -1.322917,5.291667 l -2.645832,2.645832 -1.322917,1.322917"
+         id="path4760"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+      <ellipse
+         style="opacity:1;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4762"
+         cx="50.79055"
+         cy="39.598213"
+         rx="5.885344"
+         ry="9.9013414"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.96499991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4764"
+         cx="51.140846"
+         cy="37.013756"
+         rx="1.3229166"
+         ry="2.6458333"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.96499991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4766"
+         cx="51.882626"
+         cy="37.098801"
+         rx="0.39687499"
+         ry="0.79374999"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+      <ellipse
+         ry="2.315104"
+         rx="0.92369115"
+         cy="37.013756"
+         cx="54.673607"
+         id="ellipse4768"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.53590274;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+      <ellipse
+         ry="0.69453126"
+         rx="0.28044826"
+         cy="37.098801"
+         cx="55.255848"
+         id="ellipse4770"
+         style="opacity:1;fill:#000000;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:1.54513359;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balun.png"
+         inkscape:export-xdpi="101.72961"
+         inkscape:export-ydpi="101.72961" />
+    </g>
+    <g
+       id="g4796"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/coin.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4774"
+         width="16.933332"
+         height="16.933332"
+         x="106.96279"
+         y="1.4706838" />
+      <circle
+         r="4.7624998"
+         cy="9.9373503"
+         cx="115.42946"
+         id="path4776"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#ffcc00;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <g
+       id="g4822">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect4798"
+         width="16.933332"
+         height="16.933332"
+         x="131.23334"
+         y="0.66666669" />
+      <path
+         inkscape:transform-center-y="-0.52638861"
+         inkscape:transform-center-x="9.0238152e-06"
+         d="m 139.7,4.1472931 1.68486,3.1934052 3.55776,0.6155819 -2.51646,2.5892148 0.51395,3.573856 -3.24011,-1.593183 -3.24012,1.593182 0.51395,-3.573855 -2.51645,-2.589215 3.55776,-0.6155817 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="2.8664572"
+         sodipodi:r1="5.5124178"
+         sodipodi:cy="9.6597109"
+         sodipodi:cx="139.7"
+         sodipodi:sides="5"
+         id="path4806"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#ffcc00;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#ffcc00;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path4812"
+         sodipodi:sides="5"
+         sodipodi:cx="139.7"
+         sodipodi:cy="9.6597109"
+         sodipodi:r1="5.5124178"
+         sodipodi:r2="2.8664572"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 139.7,4.1472931 1.68486,3.1934052 3.55776,0.6155819 -2.51646,2.5892148 0.51395,3.573856 -3.24011,-1.593183 -3.24012,1.593182 0.51395,-3.573855 -2.51645,-2.589215 3.55776,-0.6155817 z"
+         inkscape:transform-center-x="9.0238152e-06"
+         inkscape:transform-center-y="-0.52638861" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:#ffd42a;stroke-width:0.41684708;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4817"
+       sodipodi:sides="5"
+       sodipodi:cx="157.29695"
+       sodipodi:cy="4.7550592"
+       sodipodi:r1="2.1711831"
+       sodipodi:r2="1.1290151"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 157.29695,2.5838761 0.66362,1.2577907 1.4013,0.24246 -0.99116,1.0198173 0.20243,1.4076392 -1.27619,-0.627509 -1.27619,0.6275089 0.20243,-1.4076391 -0.99116,-1.0198174 1.4013,-0.2424598 z"
+       inkscape:transform-center-x="4.0780944e-06"
+       inkscape:transform-center-y="-0.20171563"
+       transform="matrix(0.92998757,0,0,0.97292409,11.347705,2.0509165)"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/spark.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff2a2a;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 191.55833,-57.541665 c 1.65544,1.120087 4.0444,3.373702 6.35,3.175 -1.88644,2.334911 -1.50507,3.450519 -2.11667,5.291667 -0.38049,-3.219517 -1.68171,-6.551971 -4.23333,-8.466667 z"
+       id="path4824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/balunbreak.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       y="-62.833332"
+       x="213.78334"
+       height="16.933332"
+       width="16.933332"
+       id="rect4826"
+       style="opacity:1;fill:#ffccaa;fill-opacity:0.98239435;fill-rule:nonzero;stroke:none;stroke-width:0.46838006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4828"
+       width="86.783333"
+       height="86.783333"
+       x="-88.900002"
+       y="328.75" />
+    <rect
+       style="opacity:1;fill:#ffe6d5;fill-opacity:0.75704223;fill-rule:nonzero;stroke:none;stroke-width:0.86578578;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4830"
+       width="92.075012"
+       height="8.4666662"
+       x="265.64166"
+       y="483.26666"
+       ry="4.2333331"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/clouds.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       ry="4.2333331"
+       y="489.61667"
+       x="319.61667"
+       height="8.4666662"
+       width="56.091679"
+       id="rect4832"
+       style="opacity:1;fill:#ffe6d5;fill-opacity:0.75704223;fill-rule:nonzero;stroke:none;stroke-width:0.67575425;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/clouds.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       style="opacity:1;fill:#ffe6d5;fill-opacity:0.75704223;fill-rule:nonzero;stroke:none;stroke-width:0.67575425;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4834"
+       width="56.091679"
+       height="8.4666662"
+       x="314.32498"
+       y="517.1333"
+       ry="4.2333331"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/clouds.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       ry="4.2333331"
+       y="512.89996"
+       x="228.60001"
+       height="8.4666662"
+       width="56.091679"
+       id="rect4836"
+       style="opacity:1;fill:#ffe6d5;fill-opacity:0.75704223;fill-rule:nonzero;stroke:none;stroke-width:0.67575425;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/clouds.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       ry="4.2333331"
+       y="548.8833"
+       x="231.77499"
+       height="8.4666662"
+       width="92.075012"
+       id="rect4838"
+       style="opacity:1;fill:#ffe6d5;fill-opacity:0.75704223;fill-rule:nonzero;stroke:none;stroke-width:0.86578578;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/clouds.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#803300;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4840"
+       width="131.23334"
+       height="131.23334"
+       x="237.06667"
+       y="280.06665" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4842"
+       sodipodi:sides="5"
+       sodipodi:cx="257.02906"
+       sodipodi:cy="345.19525"
+       sodipodi:r1="2.0691214"
+       sodipodi:r2="1.075943"
+       sodipodi:arg1="0.55859932"
+       sodipodi:arg2="1.1869178"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 258.78366,346.29188 -1.35165,-0.099 -0.90371,1.00997 -0.32353,-1.31608 -1.23981,-0.54739 1.15169,-0.71439 0.13748,-1.34828 1.03531,0.87457 1.32478,-0.2859 -0.51184,1.25491 z"
+       inkscape:transform-center-x="0.15473102"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-ydpi="106.42381" />
+    <rect
+       inkscape:export-ydpi="99"
+       inkscape:export-xdpi="99"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.5227533;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4723"
+       width="43.391678"
+       height="6.5496855"
+       x="117.47499"
+       y="332.78366"
+       ry="3.2748427" />
+    <path
+       inkscape:transform-center-y="-8.4191846"
+       d="m 154.64455,85.271317 29.16488,50.515073 -58.32977,-1e-5 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-0.52359878"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="16.838354"
+       sodipodi:r1="33.676712"
+       sodipodi:cy="118.94803"
+       sodipodi:cx="154.64455"
+       sodipodi:sides="3"
+       id="path7506"
+       style="opacity:1;fill:#483745;fill-opacity:1;fill-rule:nonzero;stroke:#483745;stroke-width:0.89669574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:type="star"
+       inkscape:transform-center-x="5.3436291e-06"
+       transform="matrix(1.3930116,0,0,1,-74.171029,242.40375)"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       inkscape:export-xdpi="99.75"
+       inkscape:export-ydpi="99.75" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#916f8a;fill-opacity:1;fill-rule:nonzero;stroke:#916f8a;stroke-width:1.00890162;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path7504"
+       sodipodi:sides="3"
+       sodipodi:cx="76.20118"
+       sodipodi:cy="122.81586"
+       sodipodi:r1="55.5625"
+       sodipodi:r2="27.78125"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 76.201181,67.253357 48.118539,83.343753 -96.237078,0 z"
+       inkscape:transform-center-y="-11.680464"
+       transform="matrix(1.3086065,0,0,0.84088816,-12.675528,251.4616)"
+       inkscape:transform-center-x="-2.0513983e-06"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       inkscape:export-xdpi="99.75"
+       inkscape:export-ydpi="99.75" />
+    <rect
+       ry="4.2333331"
+       y="313.93332"
+       x="26.458321"
+       height="8.4666662"
+       width="56.091679"
+       id="rect4725"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.50196081;fill-rule:nonzero;stroke:none;stroke-width:0.67575425;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient7531);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3429693;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4487"
+       width="135.46666"
+       height="103.03631"
+       x="29.633337"
+       y="-400.03632"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       inkscape:export-xdpi="99.75"
+       inkscape:export-ydpi="99.75"
+       transform="scale(1,-1)" />
+    <g
+       id="g4760"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       inkscape:export-xdpi="99"
+       inkscape:export-ydpi="99">
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="39.439098"
+         id="path5131"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5133"
+         cx="54.990612"
+         cy="403.9314"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="69.177963"
+         id="ellipse5135"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5137"
+         cx="81.455475"
+         cy="403.9314"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="93.732979"
+         id="ellipse5139"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5141"
+         cx="107.10181"
+         cy="403.9314"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="120.47069"
+         id="ellipse5143"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5145"
+         cx="134.11232"
+         cy="403.9314"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="147.20833"
+         id="ellipse5147"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5149"
+         cx="159.75868"
+         cy="403.9314"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="403.9314"
+         cx="159.75868"
+         id="ellipse5151"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5169"
+         cx="39.20763"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         ry="9.0722942"
+         rx="11.595427"
+         cy="408.57819"
+         cx="54.759144"
+         id="ellipse5171"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5173"
+         cx="68.946503"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         ry="9.0722942"
+         rx="11.595427"
+         cy="408.57819"
+         cx="81.224007"
+         id="ellipse5175"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5177"
+         cx="93.501518"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         ry="9.0722942"
+         rx="11.595427"
+         cy="408.57819"
+         cx="106.87037"
+         id="ellipse5179"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5181"
+         cx="120.23922"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         ry="9.0722942"
+         rx="11.595427"
+         cy="408.57819"
+         cx="133.88086"
+         id="ellipse5183"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5185"
+         cx="146.97685"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         ry="9.0722942"
+         rx="11.595427"
+         cy="408.57819"
+         cx="159.52721"
+         id="ellipse5187"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5189"
+         cx="159.52721"
+         cy="408.57819"
+         rx="11.595427"
+         ry="9.0722942"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         inkscape:export-xdpi="99"
+         inkscape:export-ydpi="99" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="37.355881"
+         id="ellipse5191"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5193"
+         cx="52.907398"
+         cy="417.65045"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="67.094757"
+         id="ellipse5195"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5197"
+         cx="79.372261"
+         cy="417.65045"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="91.649757"
+         id="ellipse5199"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5201"
+         cx="105.01859"
+         cy="417.65045"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="118.38747"
+         id="ellipse5203"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5205"
+         cx="132.0291"
+         cy="417.65045"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="145.12511"
+         id="ellipse5207"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse5209"
+         cx="157.67546"
+         cy="417.65045"
+         rx="11.595427"
+         ry="9.0722942" />
+      <ellipse
+         inkscape:export-ydpi="99"
+         inkscape:export-xdpi="99"
+         inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+         ry="9.0722942"
+         rx="11.595427"
+         cy="417.65045"
+         cx="157.67546"
+         id="ellipse5211"
+         style="opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:#17280b;stroke-width:0.73734975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <rect
+       inkscape:export-ydpi="99"
+       inkscape:export-xdpi="99"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/background.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.80920315;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4844"
+       width="80.433327"
+       height="8.4666662"
+       x="93.133347"
+       y="254.66667"
+       ry="4.2333331" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.11267604;fill-rule:nonzero;stroke:#2b2200;stroke-width:0.41300812;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4846"
+       cx="357.47125"
+       cy="318.61191"
+       r="8.2601624" />
+    <g
+       id="g4920"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106">
+      <ellipse
+         ry="6.9158025"
+         rx="8.9905434"
+         cy="320.66089"
+         cx="274.32693"
+         id="path4848"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         ry="6.9158025"
+         rx="8.9905434"
+         cy="320.66089"
+         cx="283.52069"
+         id="ellipse4852"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         ry="6.9158025"
+         rx="8.9905434"
+         cy="320.66089"
+         cx="292.71442"
+         id="ellipse4856"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         ry="6.9158025"
+         rx="8.9905434"
+         cy="320.66089"
+         cx="301.90823"
+         id="ellipse4860"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4880"
+         cx="311.10196"
+         cy="320.66089"
+         rx="8.9905434"
+         ry="6.9158025" />
+      <ellipse
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4882"
+         cx="274.67499"
+         cy="328.54956"
+         rx="8.9905434"
+         ry="6.9158025" />
+      <ellipse
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4884"
+         cx="283.86874"
+         cy="328.54956"
+         rx="8.9905434"
+         ry="6.9158025" />
+      <ellipse
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4886"
+         cx="293.06247"
+         cy="328.54956"
+         rx="8.9905434"
+         ry="6.9158025" />
+      <ellipse
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="ellipse4888"
+         cx="302.25629"
+         cy="328.54956"
+         rx="8.9905434"
+         ry="6.9158025" />
+      <ellipse
+         ry="6.9158025"
+         rx="8.9905434"
+         cy="328.54956"
+         cx="311.45001"
+         id="ellipse4890"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:0.99647887;fill-rule:nonzero;stroke:#000000;stroke-width:1.38316047;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       inkscape:export-ydpi="106.42381"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:transform-center-x="0.15473102"
+       d="m 279.02295,344.73826 -1.35165,-0.099 -0.90371,1.00997 -0.32353,-1.31608 -1.23981,-0.54739 1.15169,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.28589 -0.51183,1.2549 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.1869178"
+       sodipodi:arg1="0.55859932"
+       sodipodi:r2="1.075943"
+       sodipodi:r1="2.0691214"
+       sodipodi:cy="343.64162"
+       sodipodi:cx="277.26834"
+       sodipodi:sides="5"
+       id="path4894"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4896"
+       sodipodi:sides="5"
+       sodipodi:cx="250.67906"
+       sodipodi:cy="316.62025"
+       sodipodi:r1="2.0691214"
+       sodipodi:r2="1.075943"
+       sodipodi:arg1="0.55859932"
+       sodipodi:arg2="1.1869178"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 252.43367,317.71687 -1.35165,-0.099 -0.90371,1.00998 -0.32353,-1.31609 -1.23981,-0.54738 1.15169,-0.71439 0.13748,-1.34828 1.03531,0.87457 1.32478,-0.2859 -0.51184,1.25491 z"
+       inkscape:transform-center-x="0.15473102"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-ydpi="106.42381" />
+    <path
+       inkscape:export-ydpi="106.42381"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:transform-center-x="0.15473102"
+       d="m 289.6063,302.40492 -1.35165,-0.099 -0.90372,1.00998 -0.32353,-1.31609 -1.23981,-0.54738 1.1517,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.2859 -0.51184,1.25491 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.1869178"
+       sodipodi:arg1="0.55859932"
+       sodipodi:r2="1.075943"
+       sodipodi:r1="2.0691214"
+       sodipodi:cy="301.30829"
+       sodipodi:cx="287.85167"
+       sodipodi:sides="5"
+       id="path4898"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4900"
+       sodipodi:sides="5"
+       sodipodi:cx="335.47667"
+       sodipodi:cy="308.71662"
+       sodipodi:r1="2.0691214"
+       sodipodi:r2="1.075943"
+       sodipodi:arg1="0.55859932"
+       sodipodi:arg2="1.1869178"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 337.2313,309.81325 -1.35165,-0.099 -0.90372,1.00998 -0.32353,-1.31609 -1.23981,-0.54739 1.1517,-0.71438 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.2859 -0.51184,1.2549 z"
+       inkscape:transform-center-x="0.15473102"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-ydpi="106.42381" />
+    <path
+       inkscape:export-ydpi="106.42381"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:transform-center-x="0.15473102"
+       d="m 343.58127,322.51326 -1.35165,-0.099 -0.90371,1.00998 -0.32353,-1.31609 -1.23981,-0.54738 1.15169,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.2859 -0.51183,1.2549 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.1869178"
+       sodipodi:arg1="0.55859932"
+       sodipodi:r2="1.075943"
+       sodipodi:r1="2.0691214"
+       sodipodi:cy="321.41662"
+       sodipodi:cx="341.82667"
+       sodipodi:sides="5"
+       id="path4902"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4904"
+       sodipodi:sides="5"
+       sodipodi:cx="337.34794"
+       sodipodi:cy="343.55229"
+       sodipodi:r1="2.0691214"
+       sodipodi:r2="1.075943"
+       sodipodi:arg1="0.55859932"
+       sodipodi:arg2="1.1869178"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 339.10254,344.64891 -1.35165,-0.099 -0.90371,1.00998 -0.32353,-1.31609 -1.23981,-0.54738 1.15169,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.2859 -0.51183,1.2549 z"
+       inkscape:transform-center-x="0.15473102"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-ydpi="106.42381" />
+    <path
+       inkscape:export-ydpi="106.42381"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:transform-center-x="0.15473102"
+       d="m 317.12296,344.73826 -1.35165,-0.099 -0.90372,1.00997 -0.32353,-1.31608 -1.23981,-0.54739 1.1517,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.28589 -0.51183,1.2549 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.1869178"
+       sodipodi:arg1="0.55859932"
+       sodipodi:r2="1.075943"
+       sodipodi:r1="2.0691214"
+       sodipodi:cy="343.64162"
+       sodipodi:cx="315.36834"
+       sodipodi:sides="5"
+       id="path4906"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.21932641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path4908"
+       sodipodi:sides="5"
+       sodipodi:cx="332.05627"
+       sodipodi:cy="331.91063"
+       sodipodi:r1="2.0691214"
+       sodipodi:r2="1.075943"
+       sodipodi:arg1="0.55859932"
+       sodipodi:arg2="1.1869178"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 333.81089,333.00728 -1.35165,-0.099 -0.90372,1.00998 -0.32353,-1.31609 -1.23981,-0.54738 1.1517,-0.71439 0.13747,-1.34828 1.03532,0.87457 1.32477,-0.2859 -0.51184,1.2549 z"
+       inkscape:transform-center-x="0.15473102"
+       inkscape:transform-center-y="0.044530555"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/backgroundStar.png"
+       inkscape:export-xdpi="106.42381"
+       inkscape:export-ydpi="106.42381" />
+    <ellipse
+       inkscape:export-ydpi="101.72961"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       ry="9.9013414"
+       rx="5.885344"
+       cy="374.44116"
+       cx="285.07651"
+       id="ellipse4924"
+       style="opacity:1;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <ellipse
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="ellipse4948"
+       cx="302.98669"
+       cy="374.44116"
+       rx="5.885344"
+       ry="9.9013414"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-ydpi="101.72961" />
+    <ellipse
+       inkscape:export-ydpi="101.72961"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       ry="9.9013414"
+       rx="5.885344"
+       cy="374.44116"
+       cx="320.89682"
+       id="ellipse4950"
+       style="opacity:1;fill:#abc837;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <ellipse
+       style="opacity:1;fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="ellipse4952"
+       cx="338.80698"
+       cy="374.44116"
+       rx="5.885344"
+       ry="9.9013414"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-ydpi="101.72961" />
+    <ellipse
+       inkscape:export-ydpi="101.72961"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       ry="9.9013414"
+       rx="5.885344"
+       cy="374.44116"
+       cx="356.71713"
+       id="ellipse4954"
+       style="opacity:1;fill:#2a7fff;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <ellipse
+       style="opacity:1;fill:#cc00ff;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="ellipse4956"
+       cx="267.16635"
+       cy="374.44116"
+       rx="5.885344"
+       ry="9.9013414"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-ydpi="101.72961" />
+    <ellipse
+       inkscape:export-ydpi="101.72961"
+       inkscape:export-xdpi="101.72961"
+       inkscape:export-filename="/home/ocio/workspace/gamedev/html5/balun/assets/images/end.png"
+       ry="9.9013414"
+       rx="5.885344"
+       cy="374.44116"
+       cx="249.2562"
+       id="ellipse4958"
+       style="opacity:1;fill:#c83771;fill-opacity:1;fill-rule:nonzero;stroke:#2b0000;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       style="fill:#338000;fill-opacity:1;stroke:none;stroke-width:1.45244062;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4702"
+       width="36.714859"
+       height="20.167957"
+       x="65.422417"
+       y="3.0471423"
+       ry="4.6541438"
+       inkscape:export-filename="/Users/coloro/workspace/gamedev/html5/balun/assets/images/ui/scoreback.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+  </g>
+</svg>
